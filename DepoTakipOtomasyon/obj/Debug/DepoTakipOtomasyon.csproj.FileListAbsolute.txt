@@ -37,3 +37,17 @@ C:\Users\hp\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipO
 C:\Users\hp\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.csproj.CoreCompileInputs.cache
 C:\Users\hp\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.exe
 C:\Users\hp\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.pdb
+C:\Users\wcat\Documents\GitHub\StokYonetim\Debug\DepoTakipOtomasyon.exe.config
+C:\Users\wcat\Documents\GitHub\StokYonetim\Debug\DepoTakipOtomasyon.exe
+C:\Users\wcat\Documents\GitHub\StokYonetim\Debug\DepoTakipOtomasyon.pdb
+C:\Users\wcat\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.csproj.AssemblyReference.cache
+C:\Users\wcat\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\wcat\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.Form1.resources
+C:\Users\wcat\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.Form2.resources
+C:\Users\wcat\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.Form3.resources
+C:\Users\wcat\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.Form4.resources
+C:\Users\wcat\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.Properties.Resources.resources
+C:\Users\wcat\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.csproj.GenerateResource.cache
+C:\Users\wcat\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\wcat\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.exe
+C:\Users\wcat\Documents\GitHub\StokYonetim\DepoTakipOtomasyon\obj\Debug\DepoTakipOtomasyon.pdb
