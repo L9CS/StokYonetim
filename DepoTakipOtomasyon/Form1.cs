@@ -69,8 +69,6 @@ namespace DepoTakipOtomasyon
             int sayi1 = rdm.Next(1, 20);
             for (int i = 0; i < 99999; i++)
             {
-                //randomda ayni sayi uzantıları bulmasın diye programimizi yavaşlatiyoruz
-                //3-13 6-16 7-17 gibi gelir düzeltmezsek 
 
             }
 

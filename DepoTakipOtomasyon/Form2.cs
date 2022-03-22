@@ -186,6 +186,11 @@ namespace DepoTakipOtomasyon
             this.Hide();
         }
 
+        private void DosyaAc_FileOk(object sender, CancelEventArgs e)
+        {
+
+        }
+
         public void listele()
         {
             tablo.Clear();
