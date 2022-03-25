@@ -191,6 +191,11 @@ namespace DepoTakipOtomasyon
 
         }
 
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
         public void listele()
         {
             tablo.Clear();
